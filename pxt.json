@@ -4,7 +4,10 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "BitMaker": "github:MiroChao/pxt-BitMaker",
+        "chmakered-grove": "github:MiroChao/pxt-CHMakerEd-Grove",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
     },
     "files": [
         "README.md",
@@ -13,6 +16,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": true
 }
