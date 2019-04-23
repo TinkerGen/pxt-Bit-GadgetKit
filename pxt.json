@@ -6,7 +6,7 @@
         "core": "*",
         "radio": "*",
         "BitMaker": "github:MiroChao/pxt-BitMaker",
-        "chmakered-grove": "github:MiroChao/pxt-CHMakerEd-Grove",
+        "chmakered-grove": "github:CH-MAKER-Ed/pxt-Grove-One#v0.0.1",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
     },
     "files": [
