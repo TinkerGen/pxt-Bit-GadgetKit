@@ -1,12 +1,13 @@
 {
     "name": "pxt-bit-gadgetkit",
-    "version": "0.0.2",
-    "description": "",
+    "version": "0.0.0",
+    "description": "The BitGadget Kit extensions for micro:bit",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "BitMaker": "github:MiroChao/pxt-BitMaker",
-        "chmakered-grove": "github:CH-MAKER-Ed/pxt-Grove-One#v0.0.2",
+        "chmakered-grove": "github:CH-MAKER-Ed/pxt-Grove",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
     },
     "files": [
