@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "BitMaker": "github:MiroChao/pxt-BitMaker",
+        "BitMaker": "github:CH-MAKER-Ed/pxt-BitMaker",
         "chmakered-grove": "github:CH-MAKER-Ed/pxt-Grove",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
     },
