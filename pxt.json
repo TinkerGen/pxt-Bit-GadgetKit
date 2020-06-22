@@ -6,8 +6,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "BitMaker": "github:CH-MAKER-Ed/pxt-BitMaker#v0.1.3",
-        "chmakered-grove": "github:CH-MAKER-Ed/pxt-Grove#v0.1.0",
+        "BitMaker": "github:TinkerGen/pxt-BitMaker#v0.1.3",
+        "Grove": "github:TinkerGen/pxt-Grove#v0.1.0",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
     },
     "files": [
