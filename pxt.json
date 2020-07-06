@@ -1,6 +1,6 @@
 {
     "name": "pxt-bit-gadgetkit",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "The BitGadget Kit extensions for micro:bit",
     "license": "MIT",
     "dependencies": {
