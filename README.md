@@ -10,14 +10,14 @@ Here are some related tutorials to help you get started with BitGadget Kit.
 ### 1.1 Implementation
 We'll make a LED controller that shows different light displays by rotating the rotary angle sensor.
 <p align = "left">
-    <img src="https://docproxy.chmakered.com/server/../Public/Uploads/2019-11-05/5dc0eb0ec788d.png" alt="">
+    <img src="https://docproxy.chmakered.com/Public/Uploads/2019-11-05/5dc0eb0ec788d.png" alt="">
 </p>
 
 ### 1.2 Write a Program
 Let's go to MakeCode: https://makecode.microbit.org
 Create a new project. Firstly add a "forever" block and connect the block "plot bar graph of up to" into it. Then add a "analog read pin" block. Set the maximum as 1023, which is the greatest value that the rotary angle sensor can produce. Finally, connect a "pause" block and set the time delay as 1,000 millisecond.
 <p align = "left">
-    <img src="https://docproxy.tinkergen.com/server/../Public/Uploads/2020-03-16/5e6f524c028a9.png" alt=""></p>
+    <img src="https://docproxy.tinkergen.com/server/../Public/Uploads/2020-03-16/5e6f524c028a9.png" alt="">
 </p>
 
 ### 1.3 Connect a Device
