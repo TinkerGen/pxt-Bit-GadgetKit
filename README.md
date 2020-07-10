@@ -44,8 +44,8 @@ Let's take the challenge to another level. In this project, we'll make the RGB L
 <img src="https://docproxy.tinkergen.com/server/../Public/Uploads/2020-03-16/5e6f53376d166.png" alt=""></p>
 <p>Step 2  Select "Extensions" from the drop-down list which takes you to the extensions page.
 <img src="https://docproxy.tinkergen.com/server/../Public/Uploads/2020-03-16/5e6f5345efa5c.png" alt=""></p>
-<p>Step 3 Input the address of the BitGadget Kit extension into the search box: https://github.com/TinkerGen/pxt-Bit-GadgetKit or input key word: **Bit GadgetKit**
-<img src="https://docproxy.tinkergen.com/server/../Public/Uploads/2020-03-16/5e6f5363b7fb0.png" alt=""></p>
+<p>Step 3 Input the key word of the BitGadget Kit extension into the search box: Bit GadgetKit or bit-gadgetkit
+</p>
 <blockquote>
 <p>If a prompt says that this extension does not exist, please close the browser and try again.</p>
 </blockquote>
